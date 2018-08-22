@@ -116,10 +116,10 @@ comments:
   gitalk:
     clientID    : dee6a43f68c36c6e71af # GitHub Application Client ID
     clientSecret: fb7ac1e71a39b99dc91ae545fa5f36fe0828edfe # GitHub Application Client Secret
-    repository  : arvinynm.github.io# GitHub repo
-    owner       : arvinynm# GitHub repo owner
+    repository  : arvinynm.github.io # GitHub repo
+    owner       : arvinynm # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-       - arvinynm
+      - arvinynm
 
 
 
