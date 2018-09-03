@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Arvin Yan's Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  Arvin Yan's Blog
+  悬崖边上写着warning，结果只有程序员掉下去了
 
 
 ## => Language and Timezone
